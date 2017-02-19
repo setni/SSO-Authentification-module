@@ -4,7 +4,7 @@ SSO authentification PHP module
 **This is an example of SSO authentification with PHP7. This module will be implemented for PHP7 server. I put only one class here for the demonstration.**
 
 ## Documentation
-- Developer Docs: [https://github.com/setni/SSO-Authentification-module/wiki](https://github.com/setni/SSO-Authentification-module/wiki)
+- Developer Docs: [https://github.com/ThomasDupont/SSO-Authentification-module/wiki](https://github.com/ThomasDupont/SSO-Authentification-module/wiki)
 
 ## Current Release
 - <b>0.1.1</b> : Generic SSO support available on our application.
